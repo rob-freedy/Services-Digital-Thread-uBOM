@@ -1,1 +1,1 @@
-# Services-Digital-Thread-uBOM-
+# Services-Digital-Thread-uBOM
